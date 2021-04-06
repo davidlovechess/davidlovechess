@@ -1,6 +1,8 @@
 body{
     background-color: #bdbddd;
 }
-h1{
-    font-color: #fefeff
+div{
+    width: 500;
+    height: 500;
+    margin: center 400;
 }
